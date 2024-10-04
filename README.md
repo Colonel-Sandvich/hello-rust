@@ -1,0 +1,1 @@
+Repository for testing calling Rust dynamic libraries from a Minecraft Fabric mod
